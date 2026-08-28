@@ -2,7 +2,7 @@ package com.lecture;
 
 public class App {
     public static String message() {
-        return "Hello, welcome to AI lecture";
+        return "Hello, welcome to DevOps lecture!";
     }
 
     public static void main(String[] args) {
